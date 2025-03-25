@@ -1,0 +1,95 @@
+{
+    "home": {
+        "section1": {
+            "title": "Special pentru antreprenorii români",
+            "subTitle": "Deschide-ți afacerea în Dubai cu 100% proprietate străină și 0% impozit!",
+            "text": "Dubai este una dintre cele mai atractive destinații pentru antreprenorii români care doresc să-și extindă afacerile la nivel internațional. Ne ocupăm de tot procesul pentru tine!",
+            "contactUsNow": "Contactează-ne acum"
+        },
+        "section2": {
+            "box1": {
+                "title": "Beneficii principale pentru antreprenorii români",
+                "items": [
+                    "0% impozit pe venit și profit – Crește-ți afacerea fără taxe suplimentare",
+                    "100% proprietate străină –  Nu ai nevoie de partener local",
+                    "Acces la cont bancar în Dubai – Colaborăm cu cele mai bune bănci din UAE",
+                    "Vize de rezidență pentru tine și familia ta",
+                    "Timp rapid de înființare – Compania ta poate fi gata în 3-5 zile"
+                ]
+            },
+            "box2": {
+                "title": "Special pentru români: De ce să alegi Dubai?",
+                "items": [
+                    "UAE și România au relații economice solide, facilitând afacerile pentru români",
+                    "Dubai este un hub internațional, ideal pentru import-export, e-commerce, IT, turism și servicii",
+                    "Procesul este simplificat – Noi ne ocupăm de toată birocrația, astfel încât tu să te concentrezi pe  creșterea afacerii"
+                ]
+            }
+        },
+        "section3": {
+            "box1": {
+                "title": "Problemele antreprenorilor români",
+                "items": [
+                    "Nu știi care este cea mai bună opțiune pentru tine?",
+                    "Îți este teamă de birocrație și costuri ascunse?",
+                    "Ai nevoie de un cont bancar, dar nu știi cum să-l deschizi?"
+                ]
+            },
+            "box2": {
+                "title": "Soluțiile noastre",
+                "items": [
+                    "Îți oferim consultanță gratuită pentru a alege între Free Zone, Mainland sau Offshore.",
+                    "Noi ne ocupăm de tot și oferim prețuri transparente, fără taxe ascunse.",
+                    "Colaborăm cu cele mai de încredere bănci din Dubai și te ajutăm să obții rapid un cont de business."
+                ]
+            },
+            "box3": {
+                "title": "Cum funcționează? (Proces simplu în 3 pași)",
+                "items": [
+                    "Consultație GRATUITĂ – Ne spui ce afacere vrei să deschizi și îți oferim cele mai bune soluții",
+                    "Documentație & Aprobări – Ne ocupăm de toate actele, vizele și licențele",
+                    "Lansarea afacerii – Ai compania gata și poți începe să lucrezi în Dubai!"
+                ]
+            }
+        },
+        "testimonials": {
+            "title": "Testimoniale de la antreprenori români",
+            "reviews": [
+                {
+                    "text": "“Am deschis o companie de e-commerce în Dubai în doar 4 zile. Totul a fost super simplu!”",
+                    "author": "Andrei M., antreprenor din România"
+                },
+                {
+                    "text": " “Nu mă așteptam ca totul să fie atât de rapid și eficient. Acum am și rezidență în Dubai!”",
+                    "author": "Cristina D., fondator agenție de turism"
+                }
+            ]
+        },
+        "offer": {
+            "title": "Ofertă limitată pentru români!",
+            "subTitle": "Obține o consultație GRATUITĂ + Reduceri la taxele de licențiere – Doar pentru primele 10 înregistrări din această lună!"
+        }
+    },
+    "aboutUs": {
+        "title": "De ce să ne alegi?",
+        "items": [
+            "10 ani de experiență în piața din UAE",
+            "Peste 1000 de companii înființate cu succes",
+            "Parteneriate strategice cu autorități locale, bănci și free zones",
+            "Servicii complete de la A-Z: licențiere, vize, cont bancar, contabilitate",
+            "Suport 100% în limba română"
+        ],
+        "text1": "Am pornit această companie din dorința de a ajuta antreprenorii români să își extindă afacerile într-o globală. Știm cât de complicat poate părea procesul de înființare a unei firme într-o țară străină, de aceea oferim un pachet complet care îți permite să îți începi afacerea fără stres și fără timp pierdut cu birocrația.",
+        "title2": "Misiunea noastra este:",
+        "items2": [
+            "Crearea unei strategii financiare și imobiliare care te va ajuta să pastrezi ceea ce ai deja",
+            "Deschiderea unei noi arene pentru cresterea si dezvoltarea ta.",
+            "Pregatirea pentru orice incertitudine financiara",
+            "Transmiterea activelor în cel mai eficient mod posibil"
+        ]
+    },
+    "footer": {
+        "contactNow": "Contactati-ne acum",
+        "address": "Adresa"
+    }
+}
