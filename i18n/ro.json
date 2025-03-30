@@ -1,4 +1,16 @@
 {
+    "header": {
+        "languages": [
+            {
+                "name": "Română",
+                "isoCode": "ro"
+            },
+            {
+                "name": "Rusă",
+                "isoCode": "ru"
+            }
+        ]
+    },
     "home": {
         "section1": {
             "title": "Special pentru antreprenorii români",

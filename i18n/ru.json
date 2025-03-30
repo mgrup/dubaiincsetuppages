@@ -1,0 +1,14 @@
+{
+    "header": {
+        "languages": [
+            {
+                "name": "Румынский",
+                "isoCode": "ro"
+            },
+            {
+                "name": "Русский",
+                "isoCode": "ru"
+            }
+        ]
+    }
+}
