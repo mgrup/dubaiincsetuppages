@@ -6,7 +6,7 @@
                 "isoCode": "ro"
             },
             {
-                "name": "Rusă",
+                "name": "Русский",
                 "isoCode": "ru"
             }
         ]
@@ -76,10 +76,6 @@
                     "author": "Cristina D., fondator agenție de turism"
                 }
             ]
-        },
-        "offer": {
-            "title": "Ofertă limitată pentru români!",
-            "subTitle": "Obține o consultație GRATUITĂ + Reduceri la taxele de licențiere – Doar pentru primele 10 înregistrări din această lună!"
         }
     },
     "aboutUs": {
@@ -91,7 +87,7 @@
             "Servicii complete de la A-Z: licențiere, vize, cont bancar, contabilitate",
             "Suport 100% în limba română"
         ],
-        "text1": "Am pornit această companie din dorința de a ajuta antreprenorii români să își extindă afacerile într-o globală. Știm cât de complicat poate părea procesul de înființare a unei firme într-o țară străină, de aceea oferim un pachet complet care îți permite să îți începi afacerea fără stres și fără timp pierdut cu birocrația.",
+        "text1": "Am pornit această companie din dorința de a ajuta antreprenorii români să își extindă afacerile. Știm cât de complicat poate părea procesul de înființare a unei firme într-o țară străină, de aceea oferim un pachet complet care îți permite să îți începi afacerea fără stres și fără timp pierdut cu birocrația.",
         "title2": "Misiunea noastra este:",
         "items2": [
             "Crearea unei strategii financiare și imobiliare care te va ajuta să pastrezi ceea ce ai deja",
