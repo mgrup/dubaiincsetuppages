@@ -20,6 +20,7 @@
             "contactUsNow": "Contactează-ne acum"
         },
         "section2": {
+            "imgAlt": "Deschide afacere Dubai",
             "box1": {
                 "title": "Beneficii principale pentru antreprenorii români",
                 "items": [
@@ -46,7 +47,8 @@
                     "Nu știi care este cea mai bună opțiune pentru tine?",
                     "Îți este teamă de birocrație și costuri ascunse?",
                     "Ai nevoie de un cont bancar, dar nu știi cum să-l deschizi?"
-                ]
+                ],
+                "imgAlt": "Probleme business in Dubai"
             },
             "box2": {
                 "title": "Soluțiile noastre",
@@ -54,7 +56,8 @@
                     "Îți oferim consultanță gratuită pentru a alege între Free Zone, Mainland sau Offshore.",
                     "Noi ne ocupăm de tot și oferim prețuri transparente, fără taxe ascunse.",
                     "Colaborăm cu cele mai de încredere bănci din Dubai și te ajutăm să obții rapid un cont de business."
-                ]
+                ],
+                "imgAlt": "Solutii business Dubai"
             },
             "box3": {
                 "title": "Cum funcționează? (Proces simplu în 3 pași)",
@@ -62,7 +65,8 @@
                     "Consultație GRATUITĂ – Ne spui ce afacere vrei să deschizi și îți oferim cele mai bune soluții",
                     "Documentație & Aprobări – Ne ocupăm de toate actele, vizele și licențele",
                     "Lansarea afacerii – Ai compania gata și poți începe să lucrezi în Dubai!"
-                ]
+                ],
+                "imgAlt": "Cum deschizi afacere in Dubai"
             }
         },
         "testimonials": {
